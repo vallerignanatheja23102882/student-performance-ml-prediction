@@ -1,7 +1,7 @@
 # Machine Learning Based Analysis of Study Behaviour Patterns for Student Performance Prediction
 
 MSc Data Science Project (7PAM2002), University of Hertfordshire.
-Student: Gnana Theja Valleri (23102882). Supervisor: Aoife Simpson. Resubmission, revised November 2026.
+Student: Gnana Theja Valleri (23102882). Supervisor: Aoife Simpson. Resubmission, 20th November 2026.
 
 ## Research question
 
